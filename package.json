@@ -1,0 +1,29 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "project management application",
+  "keywords": [
+    "Backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/kkaushik14/project-management#readme",
+  "bugs": {
+    "url": "https://github.com/kkaushik14/project-management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkaushik14/project-management.git"
+  },
+  "license": "ISC",
+  "author": "Kaushik",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
